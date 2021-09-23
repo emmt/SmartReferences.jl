@@ -1,0 +1,4 @@
+name = "SmartReferences"
+uuid = "922b56fb-ebce-4693-adf7-b7f4aa8a2590"
+authors = ["Éric Thiébaut <eric.thiebaut@univ-lyon1.fr>"]
+version = "0.1.0"
