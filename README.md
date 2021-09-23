@@ -40,5 +40,5 @@ of:
   syntaxes to `getproperty(A,i)` and `setproperty!(A,i,x)` respectively.
 
 - `B = FieldRef(A,i)`, with `i` a `Symbol`, to map the `B[]` and `B[] = x`
-  syntaxes to `getfield(A,i)` and `setfield!(A,i,convert(T,x)` respectively and
+  syntaxes to `getfield(A,i)` and `setfield!(A,i,convert(T,x))` respectively and
   with `T = fieldtype(typeof(A),i)`.
